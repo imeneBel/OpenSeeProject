@@ -1,0 +1,55 @@
+.content {
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+.mat-card-header .mat-card-title >span {
+    font-size: 22px;
+    color: #2995e2;
+}
+
+.mat-icon {
+    height: 15px;
+    width: 15px;
+}
+
+label {
+    padding-left: 15px;
+}
+
+.mat-card-header .mat-card-title {
+    display:inline-block;
+}
+
+.mat-card-header .mat-card-title >p {
+    font-size: 12px;
+    color: black;
+}
+
+.mat-card {
+    width: 280px;
+    height: 155px;
+    background: #e2e1e1;
+}
+
+mat-card-header {
+    height: 51px;
+}
+
+li {
+    font-size: 12px;
+    color: black;
+    list-style-type:none;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+
+.mat-icon {
+    vertical-align: -5px; /*Change this to adjust the icon*/
+}
+
+.nb-tasks {
+    margin-left: 105px;
+    font-size: 12px !important;
+    color: white !important;
+}
